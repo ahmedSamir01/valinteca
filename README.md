@@ -6,4 +6,5 @@ Shopping cart application with vanilla JS
     CSS
     Vanilla Javascript
 
-### live demo: ahmedsamir01.github.io/valinteca
+### live demo: 
+    ahmedsamir01.github.io/valinteca
