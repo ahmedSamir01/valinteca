@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Valinteca</title>
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div class="container-fluid">
+          <ul>
+            <li>
+              <a href="/">
+                <img src="images/logo.svg" class="brand" alt="logo" />
+              </a>
+            </li>
+
+            <li class="dropdown">
+              <button type="button" class="cart-btn dropbtn">
+                <img src="images/cart.png" alt="cart" />
+                <span class="cart-indicator">0</span>
+              </button>
+              <div id="myDropdown" class="dropdown-content"></div>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    <main>
+      <section>
+        <div class="container">
+          <h1>Shop till you drop!</h1>
+          <div id="notification"></div>
+          <div class="products-wrapper"></div>
+        </div>
+      </section>
+    </main>
+    <script src="./js/main.js" defer></script>
+  </body>
+</html>
