@@ -1,0 +1,12 @@
+11
+95C:\Users\Ahmed\Downloads\shopping-cart-html-css-javascript\shopping-cart-html-css-javascript\js133225245694390937 1
+96C:\Users\Ahmed\Downloads\shopping-cart-html-css-javascript\shopping-cart-html-css-javascript\css133223550624210909 1
+98C:\Users\Ahmed\Downloads\shopping-cart-html-css-javascript\shopping-cart-html-css-javascript\fonts133223516354709492 1
+99C:\Users\Ahmed\Downloads\shopping-cart-html-css-javascript\shopping-cart-html-css-javascript\images133225256493130927 1
+103C:\Users\Ahmed\Downloads\shopping-cart-html-css-javascript\shopping-cart-html-css-javascript\index.html133225327901148615 0
+108C:\Users\Ahmed\Downloads\shopping-cart-html-css-javascript\shopping-cart-html-css-javascript\images\cart.png133225090887308305 0
+108C:\Users\Ahmed\Downloads\shopping-cart-html-css-javascript\shopping-cart-html-css-javascript\images\logo.svg133223458680000000 0
+103C:\Users\Ahmed\Downloads\shopping-cart-html-css-javascript\shopping-cart-html-css-javascript\js\main.js133225299456957229 0
+113C:\Users\Ahmed\Downloads\shopping-cart-html-css-javascript\shopping-cart-html-css-javascript\fonts\Montserrat.ttf132787207431124932 0
+110C:\Users\Ahmed\Downloads\shopping-cart-html-css-javascript\shopping-cart-html-css-javascript\css\normalize.css133223609303869325 0
+106C:\Users\Ahmed\Downloads\shopping-cart-html-css-javascript\shopping-cart-html-css-javascript\css\style.css133225311498508695 0
